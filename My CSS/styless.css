@@ -1,0 +1,155 @@
+.body-att {
+    background-color: #FCF8E8
+  }
+.header{
+  position: static;
+  padding-top: 2.5rem;
+}
+.top-left-intial{
+  margin: 3rem;
+  margin-bottom: 2px;
+  font-family: 'Sacramento', cursive;
+  color: #1B2430;
+  margin-left: 50px;;
+  display: inline;
+}
+.button-div{
+  margin-left: 75%;
+  display: inline;
+}
+.img-btn{
+  display: inline;
+  outline-style: hidden;
+  outline-color: #FCF8E8;
+  background-color: #FCF8E8;
+  border: none;
+  margin-right: 1%;
+}
+.social-media-icons{
+  width: 40px;
+  height: 40px;;
+}
+
+.navbar_name{
+  font-family: 'Sacramento', cursive;
+  color: #1B2430;
+  margin-left: 50px;
+}
+
+.navbar{
+  border-radius: 15px;
+  margin: auto auto auto auto;
+  position: relative;
+  width: 60%;
+  background-color: #94B49F;
+  margin-top: 2%;
+}
+
+.nav-item{
+  margin-right: 50px ;
+}
+
+
+
+.promt-text{
+  position: relative;
+  padding-top: 7%;
+  margin-left: 20%;
+  margin-right: 10%;
+}
+.promt{
+  font-size: 4.5rem;
+  color: #1B2430;
+  display: inline-block;
+}
+.personal-image{
+  height: 13rem;
+  margin-top: 3%;
+  padding-right: 10%;
+  float: right;
+}
+.btn-outline{
+  display: block;
+  margin-top: 2rem;
+  margin-left: 50%;
+  width: 25%;
+  color:  #FCF8E8 !important;
+  background: #94B49F !important;
+  outline-color: #FCF8E8 !important;
+}
+.personal-info{
+  margin-top: 10%;
+  margin-left: 20%;
+  font-size: 1.5rem;
+}
+.personal-info-text{
+  display: block;
+}
+.download-project-btn{
+  margin-left: 50%;
+  width: 200px;
+  
+}
+
+.btn-text{
+  font-family: 'Sacramento', cursive;
+  font-size: 1.5rem;
+  padding: 0%;
+  margin: 0%;
+}
+
+.project-text{
+  margin-top: 10%;
+  margin-left: 20%;
+}
+.project-title{
+  font-size: 2rem;
+}
+.project-description{
+  font-size: 1rem;
+  margin-left: 3%;
+}
+
+.rectangle{
+  width: 50%;
+  height: 30rem;
+
+  background: #94B49F;
+  border-radius: 43.9335px;
+
+  margin-left: 25%;
+  margin-top: 10%;
+  
+}
+
+.project-numbering{
+  margin-top: 10%;
+  padding-left: 17.5%;
+  font-size: 9em;
+
+  position: absolute;
+
+  opacity: 0.8;
+
+  font-family: 'Sacramento', cursive;
+}
+
+.contact-me{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 20%;
+}
+.contact-promt{
+  font-size: 2rem;
+}
+
+.contact-center{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+.social-media-icons-buttom{
+  width: 40px;
+  height: auto;
+  margin-left: 2%;
+  display: inline;
+}
